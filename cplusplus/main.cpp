@@ -1,6 +1,6 @@
 // Author: CVHub
 // Date: May 2023
-// Description: The project demonstrates how to deploy the RT-DETR model in Python using ONNXRUNTIME.
+// Description: The project demonstrates how to deploy the RT-DETR model in C++ using ONNXRUNTIME.
 
 #include <unistd.h>
 #include <stdio.h>
