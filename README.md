@@ -105,13 +105,10 @@ $ ./main
 
 ## Demo 🎬
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="./images/bus_python_result.jpg" style="width: 50%">
-    <img src="./images/bus_cpp_result.jpg" style="width: 50%">
-  </div>
-  <p style="text-align: center;">Python vs. C++</p>
-</div>
+<center class="half">
+     <img src="./images/bus_python_result.jpg" width="250"/><img src="./images/bus_cpp_result.jpg" width="250"/>
+     <p style="text-align: center;">Python vs. C++</p>
+</center>
 
 
 ## Contact 👋
