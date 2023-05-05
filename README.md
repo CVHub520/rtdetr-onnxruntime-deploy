@@ -108,7 +108,7 @@ $ ./main
 | Python | C++ |
 |:---:|:---:|
 | ![](./images/bus_python_result.jpg) | ![](./images/bus_cpp_result.jpg) |
-| Python vs. C++ |
+
 
 
 ## Contact 👋
