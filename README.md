@@ -77,7 +77,7 @@ $ pip install netron
 ```bash
 $ git clone https://github.com/CVHub520/rtdetr-onnxruntime-deploy.git
 $ cd rtdetr-onnxruntime-deploy
-$ mkdir weights
+$ mkdir weights && cd weights
 $ wget https://github.com/CVHub520/rtdetr-onnxruntime-deploy/releases/download/v1.0.0/rtdetr_r50vd_6x_coco_cvhub.onnx
 $ cd ../python
 $ python3 main.py
@@ -87,7 +87,7 @@ $ python3 main.py
 
 ```bash
 $ cd rtdetr-onnxruntime-deploy
-$ mkdir weights
+$ mkdir weights && cd weights
 $ wget https://github.com/CVHub520/rtdetr-onnxruntime-deploy/releases/download/v1.0.0/rtdetr_r50vd_6x_coco_cvhub.onnx
 $ cd ../cplusplus
 ```
