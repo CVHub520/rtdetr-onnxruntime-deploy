@@ -4,8 +4,8 @@
   <img src="./images/logo.jpg">
 </div>
 
-
 This project showcases the deployment of the RT-DETR model using ONNXRUNTIME in C++ and Python.
+
 
 ## Environment Dependencies 🛠️
 
@@ -115,6 +115,13 @@ $ ./main
 
 Please feel free to use this project as a starting point for your own deployment needs, or as a reference for learning purposes. If you have any questions or suggestions, please don't hesitate to raise an issue or submit a pull request.
 
+
+| Platform | Account |
+| --- | --- |
+| Wechat 💬 | cv_huber |
+| Zhihu  🧠 | [CVHub](https://www.zhihu.com/people/cvhub-40) |
+| CSDN   📚 | [CVHub](https://blog.csdn.net/CVHub?spm=1010.2135.3001.5343) |
+| Github 🐱 | [CVHub](https://github.com/CVHub520) |
 
 ![](./images/contact.png)
 
